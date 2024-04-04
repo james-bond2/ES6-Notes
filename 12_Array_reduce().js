@@ -1,11 +1,9 @@
 // Array.reduce() method: The reduce() method does not reduce the original array.
 
 
-
-
-
 /**
- * => The reduce() method runs a function on each array element to produce (reduce it to) a single value.
+ * => The reduce() method runs a function on each array element to produce (reduce it to) a 
+ * single value.
  * => The reduce() method works from left-to-right in the array. See also reduceRight().
  */
 
@@ -36,6 +34,7 @@ let sum = numbers.reduce(myFunction);
 function myFunction(total, value) {
     return total + value;
 }
+console.log(sum)
 */
 
 
@@ -50,14 +49,15 @@ function myFunction(total, value) {
 }
 */
 
-
-
-
 // Array.prototype.reduce()
-let num = [1,2,3,4,5,6,7,8,9]
 
-let newArr = num.reduce((previous,current)=>{
-    return previous + current
-})
+// let num = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-console.log(newArr)
+// let newArr = num.reduce((previous, current) => {
+//   return previous + current;
+
+
+
+// });
+
+// console.log(newArr);

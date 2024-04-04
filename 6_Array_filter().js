@@ -1,9 +1,10 @@
-// Array.filter()
+// Array.filter() method: this method gives new array
 
 
 
 /**                ------------ Description ---------------
- * => this method will filter the array items following the instruction of the condition / when the given condition is true 
+ * => this method will filter the array items following the instruction of the condition / when the given 
+ * condition is true 
  * => this method gives a new array of items not just one particular item
  */
 

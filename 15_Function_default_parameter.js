@@ -18,6 +18,6 @@ passed argument. but if I don't pass any argument / if I pass 'undefined' as arg
 will return 10. because I have set '10' as the "Default Parameter" .  */
 
 console.log(myfunc1());          // this will return the Default value of parameter, answer is : 10
-console.log(myfunc1(undefined))  // this will also return the Default value of parameter, answer is : 10
+console.log(myfunc1(undefined))  // this will also "return" the Default value of parameter, answer is : 10
 console.log(myfunc1(null));      // this will return 'null', because null is a value
 console.log(myfunc1('aslam sheikh'));      // this will return 'aslam sheikh', because null is a value

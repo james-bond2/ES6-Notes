@@ -21,3 +21,11 @@ console.log(result)
 let result2 = num.slice(-4,4)      // the result2 will be : [4]
 console.log(result2)
 console.log(`This is the main array: ${num}`)
+
+let brry = ['abu-bakr','omar','osman','ali','abdullah','abdur-rahman']
+let besult = brry.slice(0,4)
+console.log(besult)
+let cesult = brry.slice(-6,6)
+console.log(cesult);
+cesult = brry.slice(-2,6)
+console.log(cesult);

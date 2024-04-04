@@ -1,14 +1,16 @@
-// ---------------------------------> spread operator (...) <----------------------------------------
+// ---------------------------------> spread operator '(...)' <--------------------------------//
 
-// ---------------------------------> spread operator in Array <----------------------------------------
+//    Spread operator is the operator which Spreads the items of any Array or Object to another
 
-/* spread operator is a simple but very essential operator in JavaScript. If you want to combine two or 
-more Arrays and make a new array, then 'spread operator' is a good choice to do the task. because it 
-has some benefits. see the following example to understand */
+// ---------------------------------> spread operator in Array <---------------------------------
+
+/* spread operator is a simple but very essential operator in JavaScript. If you want to combine 
+two or more Arrays and make a new array, then 'spread operator' is a good choice to do the task. 
+because it has some benefits. see the following example to understand */
 
 
-/* this 'spread operator' doesn't change the main array, it creates / clones new array. so you can do 
-with the new array whatever you want, and the main array will not be effected.*/
+/* the 'spread operator' doesn't change the main array, it creates / clones new array. so you 
+can do with the new array whatever you want, and the main array will not be effected.*/
 
 
 let arr1 = [1,3,5,7]

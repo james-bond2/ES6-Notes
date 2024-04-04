@@ -46,7 +46,8 @@
 
 
 
-// for..in iterates in objects. but if you try to iterate for..in loop in a array / string, then it will give each item's index
+/* for..in iterates in objects. but if you try to iterate for..in loop in a array / string, then it will 
+    give each item's index*/
 
 // let arr = [2,4,3,1,5]
 // for(item in arr){

@@ -16,3 +16,5 @@ let firstBoy = new Student('Riyad',1,'ten');
 
 // // console.log(dada[6]);
 // console.log();
+
+// but arrow function '()=>{}' does not create 'this' keyword related problems
