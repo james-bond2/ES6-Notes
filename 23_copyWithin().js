@@ -31,5 +31,8 @@ console.log(afCPW)
 
 let arre = ['abdullah','amina','muttalib','abu talib','khadija','abu bakr','fatima','ali','aisha']
 console.log(arre.copyWithin(5,4,5));
+/* if you want to select items with negative index, you have to think in the reversed way. This Time the 'start'
+parameter must be big to see . like the following code. but if the 'start' parameter was -2 and the 'end' parameter
+was -3, then the result will be the whole array.*/
 console.log(arre.copyWithin(-2,-3,-2));
 
