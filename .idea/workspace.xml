@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5ad6d535-367c-4935-9cc8-3a8af0699e71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/18_Destructuring.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Module_Import-&amp;-Export/import.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_Array_reduce().js" beforeDir="false" afterPath="$PROJECT_DIR$/12_Array_reduce().js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_for_loop(in,of).js" beforeDir="false" afterPath="$PROJECT_DIR$/13_for_loop(in,of).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_Important_Object_Tricks.js" beforeDir="false" afterPath="$PROJECT_DIR$/14_Important_Object_Tricks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_Function_default_parameter.js" beforeDir="false" afterPath="$PROJECT_DIR$/15_Function_default_parameter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_Spread_Operator.js" beforeDir="false" afterPath="$PROJECT_DIR$/16_Spread_Operator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_fatArrow.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_fatArrow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_tenaryOperator.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_tenaryOperator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Array_find().js" beforeDir="false" afterPath="$PROJECT_DIR$/4_Array_find().js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_most_common_array_methods_in_js_for_web_dev.md" beforeDir="false" afterPath="$PROJECT_DIR$/4_most_common_array_methods_in_js_for_web_dev.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Array_findIndex().js" beforeDir="false" afterPath="$PROJECT_DIR$/5_Array_findIndex().js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Array_filter().js" beforeDir="false" afterPath="$PROJECT_DIR$/6_Array_filter().js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Array_slice().js" beforeDir="false" afterPath="$PROJECT_DIR$/7_Array_slice().js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Array_splice().js" beforeDir="false" afterPath="$PROJECT_DIR$/8_Array_splice().js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +27,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +50,11 @@
       <workItem from="1712207118143" duration="65000" />
       <workItem from="1712236705286" duration="660000" />
       <workItem from="1712244758273" duration="135000" />
+      <workItem from="1712245117477" duration="1197000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
