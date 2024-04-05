@@ -115,7 +115,7 @@ log(difference)
 
 //   ------------------------------------------------> Weak Set <---------------------------------------------------
 
-// Weak Set always takes and can store Objects and unregistered symbol
+// Weak Set always can take and store Objects and unregistered symbol
 // Weak Set is not an iterable
 // It takes iterable values, but itself not an iterable
 
