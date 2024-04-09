@@ -4,8 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ad6d535-367c-4935-9cc8-3a8af0699e71" name="Changes" comment="">
+    <list default="true" id="f312e29d-9824-448d-b37c-c87bd374fa83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Array_push().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Array_map().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Array_reduce().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_for_loop(in,of).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Important_Object_Tricks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_Function_default_parameter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Spread_Operator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_Rest_Operator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_Destructuring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Module_Import-&amp;-Export/export.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Module_Import-&amp;-Export/import.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Module_Import-&amp;-Export/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fatArrow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Template_literals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Tagged_Template_Literals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_Set&amp;WeakSet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_Set_&amp;_WeakSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_copyWithin().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_truethy-falsy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_tenaryOperator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Array_find().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_most_common_array_methods_in_js_for_web_dev.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Array_findIndex().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Array_filter().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Array_slice().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Array_splice().js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Array_concat().js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +42,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ES6-Notes" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,35 +51,33 @@
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2ecc1kXeV7XbiumaIN7N2hfJzFQ" />
+  <component name="ProjectId" id="2egrvZG2ccBE7OlUtt3Enxk62bs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5ad6d535-367c-4935-9cc8-3a8af0699e71" name="Changes" comment="" />
-      <created>1712207100070</created>
+      <changelist id="f312e29d-9824-448d-b37c-c87bd374fa83" name="Changes" comment="" />
+      <created>1712337300946</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712207100070</updated>
-      <workItem from="1712207118143" duration="65000" />
-      <workItem from="1712236705286" duration="660000" />
-      <workItem from="1712244758273" duration="135000" />
-      <workItem from="1712245117477" duration="1197000" />
+      <updated>1712337300946</updated>
+      <workItem from="1712337305641" duration="720000" />
+      <workItem from="1712372113646" duration="14000" />
     </task>
     <servers />
   </component>
